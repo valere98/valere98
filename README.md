@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/techwithgen">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Genesis" alt="Hello! I&#39;m Genesis" />
+  <a href="https://github.com/valere98">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=666&text=Hello!%20I'm%20val" alt="Hello! I&#39;m valere" />
   </a>
 </p>
 
@@ -58,4 +58,4 @@ Software dev who loves coding and coffee!
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/techwithgen">techwithgen</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/techwithgen">techwithval</a></i></p>
